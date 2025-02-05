@@ -1,4 +1,4 @@
-###  Hi there, I'm XhuyZ 👋
+###  Hi there, I'm XhuyZ 👋 (this is not real pro5 i will edit later <><>)
 
 I'm Huy, a Software Engineer Student from HCM city.
 
