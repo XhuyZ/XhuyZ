@@ -10,13 +10,12 @@ I'm Huy, a Software Engineer Students from HCM city.
 
 
 ### Languages
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://ra1nbow.xyz?ref=github)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://ra1nbow.xyz?ref=github)
-[![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus&logoColor=0057b8)](https://ra1nbow.xyz?ref=github)
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://ra1nbow.xyz?ref=github)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Technologies
 
