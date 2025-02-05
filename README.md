@@ -4,8 +4,10 @@ I'm Huy, a Software Engineer Students from HCM city.
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-[![](https://img.shields.io/badge/-Youtube-FFF?&logo=Youtube)](https://hashnode.com/@ra1nbow1)
-[![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/XhuyZ/)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
 
 
 ### Languages
