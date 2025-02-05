@@ -1,9 +1,9 @@
 ###  Hi there, I'm XhuyZ 👋
 
-I'm Huy, a professional **self taught** Full Stack developer from HCM city.
+I'm Huy, a Software Engineer Students from HCM city.
 
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.com/users/XhuyZ)
-[![](https://img.shields.io/badge/-dev.to-FFF?&logo=dev.to&logoColor=000)](https://dev.to/ra1nbow1)
+[![](https://img.shields.io/badge/-dev.to-FFF?&logo=Tiktok)](https://www.tiktok.com/@hutyok)
 [![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@ra1nbow1)
 [![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/XhuyZ/)
 
