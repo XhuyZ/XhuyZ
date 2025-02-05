@@ -3,7 +3,7 @@
 I'm Huy, a Software Engineer Students from HCM city.
 
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.com/users/XhuyZ)
-[![](https://img.shields.io/badge/-Tiktok-FFF?&logo=Tiktok)](https://www.tiktok.com/@hutyok)
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 [![](https://img.shields.io/badge/-Youtube-FFF?&logo=Youtube)](https://hashnode.com/@ra1nbow1)
 [![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/XhuyZ/)
 
