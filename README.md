@@ -1,6 +1,6 @@
-###  Hi there, I'm ra1nbow 👋
+###  Hi there, I'm XhuyZ 👋
 
-I'm Matvey, a professional **self taught** Full Stack developer from Moscow.
+I'm Huy, a professional **self taught** Full Stack developer from HCM city.
 
 [![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://ra1nbow.xyz?ref=github)
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.com/users/340171098874183680)
