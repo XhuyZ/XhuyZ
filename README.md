@@ -1,3 +1,4 @@
+👋 Hi, I'm a Software Engineering student passionate about Linux and deeply embedded in its ecosystem. With a solid grasp of command-line tools and a broad understanding of software and systems, I thrive on exploring the depths of software development lifecycle and system design.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.kion.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/huyt_ok/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/XhuyZ/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ocenguyenvanhuy7026) 
